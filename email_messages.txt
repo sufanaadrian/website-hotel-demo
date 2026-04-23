@@ -1,0 +1,61 @@
+============================================================
+PENSIUNE / CABANĂ
+============================================================
+
+Bună ziua!
+
+Mă numesc Sufana Adrian, sunt dezvoltator web și am creat din proprie inițiativă un site demo pentru o pensiune — ca să vă arăt cum ar putea arăta și a dumneavoastră online.
+
+E un demo cu date fictive, dar designul, structura și toate funcționalitățile sunt reale: galerie foto, camere disponibile, hartă și buton de rezervare. Ar arăta similar, dar cu numele, pozele și informațiile pensiunii dumneavoastră.
+
+Îl puteți vedea aici:
+https://vercel.com/sufanaadrians-projects?repo=https://github.com/sufanaadrian/website-pension-demo
+
+Dacă nu prezintă interes, îl puteți ignora fără nicio problemă — demo-ul este complet gratuit. Am vrut doar să vă arăt ce e posibil.
+
+Dacă totuși vă place și doriți să discutăm, mă puteți contacta oricând.
+
+O zi bună!
+Adrian — 0737 061 086
+
+
+============================================================
+RESTAURANT
+============================================================
+
+Bună ziua!
+
+Mă numesc Sufana Adrian, sunt dezvoltator web și am creat din proprie inițiativă un site demo pentru un restaurant — ca să vă arăt cum ar putea arăta și al dumneavoastră online.
+
+E un demo cu date fictive, dar designul și funcționalitățile sunt reale: meniu, galerie foto, hartă și buton de contact. Ar arăta similar, dar cu numele, pozele și informațiile restaurantului dumneavoastră.
+
+Îl puteți vedea aici:
+https://vercel.com/sufanaadrians-projects?repo=https://github.com/sufanaadrian/website-restaurant-demo
+
+Dacă nu prezintă interes, îl puteți ignora fără nicio problemă — demo-ul este complet gratuit. Am vrut doar să vă arăt ce e posibil.
+
+Dacă totuși vă place și doriți să discutăm, mă puteți contacta oricând.
+
+O zi bună!
+Adrian — 0737 061 086
+
+
+============================================================
+BARBERSHOP / SALON
+============================================================
+
+Salut!
+
+Mă numesc Sufana Adrian, sunt dezvoltator web și am creat din proprie inițiativă un site demo pentru un salon — ca să arăt cum ar putea arăta și al tău online.
+
+E un demo cu date fictive, dar designul și funcționalitățile sunt reale: servicii și prețuri, galerie foto, recenzii și buton direct pe WhatsApp. Ar arăta similar, dar cu numele, pozele și informațiile salonului tău.
+
+Îl poți vedea aici:
+https://vercel.com/sufanaadrians-projects?repo=https://github.com/sufanaadrian/website-barber-demo
+
+Dacă nu prezintă interes, îl poți ignora fără nicio problemă — demo-ul este complet gratuit. Am vrut doar să arăt ce e posibil.
+
+Dacă totuși îți place și vrem să discutăm, mă poți contacta oricând.
+
+O zi bună!
+Adrian — 0737 061 086
