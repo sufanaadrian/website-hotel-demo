@@ -1,0 +1,127 @@
+{
+  "name": "Panoramic Hill Jina",
+  "tagline": "O oază de liniște cu priveliști care îți taie răsuflarea",
+  "description": "Situată pe culmile pitorești ale Mărginimii Sibiului, în Jina, pensiunea vă oferă un refugiu perfect departe de agitația cotidiană. Bucurați-vă de priveliști spectaculoase, aer curat, liniște și momente de relaxare într-un cadru natural deosebit, indiferent de anotimp. O vilă modernă, cu piscină interioară și spații premium, perfectă pentru cei care caută un refugiu elegant în inima naturii.",
+  "phone": "0741709075",
+  "email": "yancu_1987@yahoo.com",
+  "address": "",
+  "city": "Jina",
+  "hours": "Check-in: 14:00 | Check-out: 11:00",
+  "primaryColor": "#aa7942",
+  "businessType": "pension",
+  "designVariant": "bold",
+  "heroImageUrl": "/images/panoramichilljina/IMG_5273.JPG",
+  "heroImageAlt": "Vedere exterioară pensiunea Panoramic Hill",
+  "airbnbUrl": "https://www.airbnb.com/rooms/1628820078390857822?source_impression_id=p3_1781024482_P3c6PaeRHw9nAOzM",
+  "services": [
+    {
+      "title": "Parcare privată",
+      "description": "Pensiunea dispune de parcare privată pentru toți oaspeții.",
+      "price": ""
+    },
+    {
+      "title": "Aparat de preparare a ceaiului/cafelei",
+      "description": "Aparat de preparare a ceaiului și cafelei disponibil în toate camerele.",
+      "price": ""
+    },
+    {
+      "title": "Grătar",
+      "description": "Pensiunea dispune de grătar pentru cina în aer liber.",
+      "price": ""
+    },
+    {
+      "title": "Pet Friendly",
+      "description": "Pensiunea este pet friendly — animale de companie sunt binevenite.",
+      "price": ""
+    }
+  ],
+  "rooms": [
+    {
+      "title": "Cameră dublă sau twin",
+      "description": "Cameră confortabilă cu două paturi de o persoană, perfectă pentru cupluri sau prieteni.",
+      "price": "de la 350 RON/noapte",
+      "features": [
+        "16 m²",
+        "Bucătărie privată",
+        "Baie privată",
+        "Vedere la grădină",
+        "Vedere la curte",
+        "TV cu ecran plat",
+        "Grătar",
+        "Mașină de cafea",
+        "WiFi gratuit"
+      ],
+      "imageUrl": "https://i.postimg.cc/Gph0Fdw1/361848987.jpg",
+      "bookingUrl": "https://www.airbnb.com/rooms/1628820078390857822"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Zdrenghea",
+      "role": "Recenzie Booking.com",
+      "stars": 5,
+      "text": "Curățenie, liniște și personal foarte amabil. Cu siguranță voi reveni!"
+    },
+    {
+      "name": "Andreir1993",
+      "role": "Recenzie Booking.com",
+      "stars": 5,
+      "text": "Locație aproape de aeroport. Toaletă curată, duș, prosoape, masă unde poți mânca liniștit, fierbător, frigider și paturi confortabile."
+    },
+    {
+      "name": "Alina",
+      "role": "Recenzie Booking.com",
+      "stars": 5,
+      "text": "Locație de excepție, pet friendly, super. Cu siguranță vom reveni cu drag!"
+    }
+  ],
+  "faq": [
+    {
+      "question": "La ce oră este check-in și check-out?",
+      "answer": "Check-in de la ora 14:00, check-out până la ora 11:00. Check-in anticipat se poate aranja în funcție de disponibilitate."
+    },
+    {
+      "question": "Este micul dejun inclus în tarif?",
+      "answer": "Micul dejun poate fi adăugat la rezervare. Contactați-ne pentru detalii și prețuri."
+    },
+    {
+      "question": "Acceptați animale de companie?",
+      "answer": "Da, acceptăm animale de companie. Este nevoie de notificare la momentul rezervării."
+    },
+    {
+      "question": "Există parcare la pensiune?",
+      "answer": "Da, oferim parcare privată gratuită pentru toți oaspeții."
+    }
+  ],
+  "bulletPoints": [
+    "Locație pitorească în Jina, cu priveliști spectaculoase",
+    "Aproape de stații de transport și magazine",
+    "Zonă liniștită, perfectă pentru relaxare și evadare din cotidian"
+  ],
+  "stats": [
+    {
+      "value": "8.0★",
+      "label": "Rating Booking"
+    },
+    {
+      "value": "Piscină",
+      "label": "Interioară"
+    },
+    {
+      "value": "WiFi",
+      "label": "Gratuit"
+    },
+    {
+      "value": "Pet Friendly",
+      "label": "Da"
+    }
+  ],
+  "gallery": [
+    "/images/IMG_5314.jpeg"
+  ],
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/people/Panoramic-Hill-Jina/61585457155841/"
+  },
+  "whatsapp": "40741709075",
+  "googleMapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22258.067837462622!2d23.6833477!3d45.7860491!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x474c3bc3e1107db7%3A0x1f10c72c65f7bb95!2s557110%20Jina!5e0!3m2!1sro!2sro!4v1781024404443!5m2!1sro!2sro"
+}

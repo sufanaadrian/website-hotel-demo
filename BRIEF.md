@@ -23,29 +23,27 @@ Controls which sections and CTAs appear on the site.
 
 ## Business Info
 
-**Name:** Pension GreenHouse
+**Name:** Panoramic Hill Jina
 
-**Tagline:** Enjoy Sibiu!
+**Tagline:** O oază de liniște cu priveliști care îți taie răsuflarea
+
 
 **Description (2-3 sentences):**
-Pension GreenHouse se găsește în Sibiu, la 3,1 km de Piaţa Unirii, și oferă facilități de grătar și vedere la grădină. Această pensiune de 2 stele oferă WiFi gratuit, o grădină și o terasă. Se oferă la locație parcare privată.
+Situată pe culmile pitorești ale Mărginimii Sibiului, în Jina, pensiunea vă oferă un refugiu perfect departe de agitația cotidiană. Bucurați-vă de priveliști spectaculoase, aer curat, liniște și momente de relaxare într-un cadru natural deosebit, indiferent de anotimp.
 
-Camerele sunt dotate cu televizor cu ecran plat cu canale prin satelit, frigider, cafetieră, duș, articole de toaletă gratuite și birou. Toate unitățile de la această pensiune au o baie proprie și lenjerie de pat.
+O vilă modernă, cu piscină interioară și spații premium, perfectă pentru cei care caută un refugiu elegant în inima naturii.
 
-Pension GreenHouse se află la 3,6 km de Turnul Sfatului din Sibiu și la 3,6 km de Piaţa Mare. Aeroportul Internaţional Sibiu se află la 1 km.
+**Phone:** 0741709075
 
-
-**Phone:** 0269 227 800
-
-**Email:** office.greenhouse@gmail.com
+**Email:** yancu_1987@yahoo.com
 
 **Address:** E.A. Bieltz 67,
 
-**City:** Sibiu
+**City:** Jina
 
 **Hours:** Se vor completa dupa ce se primesc informatii de la proprietar!
 
-**Primary color (hex):** #1a5276
+**Primary color (hex):** #76541a
 > Tip: Use the dominant color from their logo. Try imagecolorpicker.com — paste their logo/website screenshot.
 
 ---
@@ -53,17 +51,17 @@ Pension GreenHouse se află la 3,6 km de Turnul Sfatului din Sibiu și la 3,6 km
 ## Booking Platforms (only for hotel / pension / cottage)
 Leave blank for other business types.
 
-**Booking.com URL:** https://www.booking.com/hotel/ro/greenhouse.ro.html
+**Booking.com URL:** 
 > Find it by searching the hotel on booking.com and copying the full URL
 
-**Airbnb URL:**
+**Airbnb URL:** https://www.airbnb.com/rooms/1628820078390857822?source_impression_id=p3_1781024482_P3c6PaeRHw9nAOzM
 > Find it on airbnb.com — copy the full listing URL
 
 ---
 
 ## Social Links (optional)
 
-**Facebook:** https://www.facebook.com/p/GreenHouse-Pension-Sibiu-Hermannstadt-100063293706287/
+**Facebook:** https://www.facebook.com/people/Panoramic-Hill-Jina/61585457155841/
 **Instagram:** 
 **TikTok:**
 
@@ -71,7 +69,7 @@ Leave blank for other business types.
 
 ## WhatsApp (optional)
 Romanian format — country code + number, no spaces or +
-**WhatsApp:** se va completa numarul de telefon daca proprietarul are whatsap!
+**WhatsApp:** 40737061086
 
 ---
 
@@ -79,15 +77,15 @@ Romanian format — country code + number, no spaces or +
 1. Go to maps.google.com → search the address
 2. Click Share → Embed a map → copy the URL from src="..."
 
-**Maps URL:** <iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.002338847144!2d24.117449212332573!3d45.79118087096059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x474c67f9dee865f1%3A0x97a17c5a2a2d4290!2sPension%20GreenHouse%20Hotel!5e0!3m2!1sen!2sro!4v1776875142789!5m2!1sen!2sro
+**Maps URL:** <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22258.067837462622!2d23.6833477!3d45.7860491!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x474c3bc3e1107db7%3A0x1f10c72c65f7bb95!2s557110%20Jina!5e0!3m2!1sro!2sro!4v1781024404443!5m2!1sro!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
 ## Hero Photo (optional)
 A wide landscape/exterior photo URL. Leave blank for plain color background.
 
-**Hero image URL:** https://i.postimg.cc/6QBnW1sd/263796468.jpg
-**Hero image description:** Vedere exterioară pensiunea GreenHouse.
+**Hero image URL:** /images/IMG_5273.jpg
+**Hero image description:** Vedere exterioară pensiunea Panoramic Hill.
 
 ---
 

@@ -4,9 +4,10 @@ import { business } from "@/config/business";
 export default function Hero() {
   const v = business.designVariant ?? "classic";
   const isBold = v === "bold";
-  const isDark = v === "dark" || isBold;
+  const isNature = v === "nature";
+  const isDark = v === "dark" || isBold || isNature;
 
-  const overlayOpacity = isBold ? "bg-black/70" : isDark ? "bg-black/60" : "bg-black/50";
+  const overlayOpacity = isBold ? "bg-black/70" : isNature ? "bg-green-950/60" : isDark ? "bg-black/60" : "bg-black/50";
   const ctaRadius = isBold ? "rounded-none" : "rounded-full";
   const titleCls = isBold
     ? "text-5xl md:text-7xl font-black mb-4 leading-none tracking-tight uppercase"
